@@ -1,0 +1,6 @@
+-std=gnu11
+-g
+-Wall
+-Wextra
+-IInclude
+-I../Raylib32/include
